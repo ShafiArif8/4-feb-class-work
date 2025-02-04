@@ -1,0 +1,12 @@
+            /* transform: translate(100px); move horizontaly <---->*/
+            /* transform: translateY(100px); move vertically */
+            /* transform: translate(100px, 100px); move both direction */
+            /* transform: skewX(45deg); tilts the element horizontally */
+            /* transform: skewY(45deg); tilts the element vertically */
+            /* transform: skew(-45deg,-20deg) tilts in both direction */
+            /* transform: rotate(180deg); rotate box in box direction */
+            /* transform: rotateX(180deg); rotate element up side down */
+            /* transform: rotateY(180deg); rotate element left to right*/
+            /* transform: scale(0.5); increase or dicrease size by both direction */
+            /* transform: scaleX(2); increase or dicrease size horizontally*/
+            /* transform: scaleY(180); increase or dicrease size vertically*/
