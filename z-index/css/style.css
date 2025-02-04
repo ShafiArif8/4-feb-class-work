@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 4px solid black;
+    border-radius: 20px;
+    position: relative;
+}
+
+.item1{
+    top: 80px;
+    z-index: 2;
+    background-color: lightgrey;
+}
+.item2{
+    background-color: blue;
+    z-index: 1;
+    left: 40px;
+}
+.item3{
+    z-index: 3;
+    left: 80px;
+    top: -80px;
+    background-color: gray;
+}
+.item2:active{
+    z-index: 4;
+}
